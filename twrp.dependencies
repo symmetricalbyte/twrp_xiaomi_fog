@@ -1,8 +1,0 @@
-[
-  {
-    "remote": "github",
-    "repository": "eun0115/kernel_xiaomi_fog",
-    "target_path": "kernel/xiaomi/fog",
-    "revision": "main"
-  }
-]
