@@ -20,5 +20,6 @@ PRODUCT_DEVICE := fog
 PRODUCT_BRAND := Redmi
 PRODUCT_MODEL := Redmi 10C
 PRODUCT_MANUFACTURER := Xiaomi
+TW_DEVICE_VERSION :=  by symmetricalbyte
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
